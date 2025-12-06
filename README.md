@@ -1,31 +1,27 @@
-# 🧠 AI Summary Tool (Built with GitHub Copilot)
+# 🧠 AI Summary Tool (Python + GitHub Copilot)
 
-This is a simple Python-based text summarization tool created with the help of **GitHub Copilot**.  
-The tool takes a paragraph as input and generates a short summary using basic NLP logic.
+A simple AI-based **extractive text summarization** tool written in Python, assisted by **GitHub Copilot**.  
+This tool processes any paragraph and returns a short summary by identifying important words and selecting the most meaningful sentences.
 
-This project demonstrates how AI-assisted coding can help beginners learn faster and build useful tools — perfect for students exploring Microsoft Learn and AI technologies.
+This project demonstrates beginner-friendly AI-assisted development — perfect for students exploring GitHub Copilot, Microsoft Learn, and AI fundamentals.
 
 ---
 
 ## 🚀 Features
-- Accepts any text input  
-- Generates a short summary  
-- Lightweight and beginner-friendly  
-- Fully created with GitHub Copilot suggestions  
-- Great starter project for Microsoft Student Ambassador activities
+- 🔹 Summarizes any paragraph into 1–3 sentences  
+- 🔹 Uses extractive summarization (keyword-based scoring)  
+- 🔹 Includes **interactive mode** for quick testing  
+- 🔹 Includes **CLI mode** with file/text support  
+- 🔹 Pure Python — **no external libraries required**  
+- 🔹 Fully beginner-friendly  
+- 🔹 Created using **GitHub Copilot** suggestions  
 
 ---
 
-## 🛠️ Technologies Used
-- **Python 3**
-- **GitHub Copilot**
-- **NLTK** (or basic Python logic depending on your Copilot output)
+## 📦 Installation
 
----
+Clone this repository:
 
-## 📦 How to Run
-
-### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/copilot-ai-summary-tool.git
 cd copilot-ai-summary-tool
